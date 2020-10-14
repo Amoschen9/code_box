@@ -1,0 +1,113 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "led[0]",
+					"strict" : false
+				},
+				{
+					"name" : "led[1]",
+					"strict" : false
+				},
+				{
+					"name" : "led[2]",
+					"strict" : false
+				},
+				{
+					"name" : "num_led1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "num_led1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "num_led1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "num_led1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "num_led1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "num_led1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "num_led1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "num_led2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "num_led2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "num_led2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "num_led2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "num_led2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "num_led2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "num_led2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "rst",
+					"strict" : false
+				},
+				{
+					"name" : "inputt_code[0]",
+					"strict" : false
+				},
+				{
+					"name" : "inputt_code[2]",
+					"strict" : false
+				},
+				{
+					"name" : "inputt_code[1]",
+					"strict" : false
+				},
+				{
+					"name" : "button_code[0]",
+					"strict" : false
+				},
+				{
+					"name" : "button_code[1]",
+					"strict" : false
+				},
+				{
+					"name" : "button_code[2]",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "comf",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

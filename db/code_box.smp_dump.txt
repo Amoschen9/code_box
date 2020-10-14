@@ -1,0 +1,6 @@
+
+State Machine - |code_box|cnt
+Name cnt.11 cnt.01 cnt.10 
+cnt.11 0 0 0 
+cnt.10 1 0 1 
+cnt.01 1 1 0 

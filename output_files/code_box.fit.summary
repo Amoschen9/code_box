@@ -1,0 +1,18 @@
+Fitter Status : Successful - Tue Oct 13 21:54:44 2020
+Quartus Prime Version : 20.1.0 Build 711 06/05/2020 SJ Lite Edition
+Revision Name : code_box
+Top-level Entity Name : code_box
+Family : MAX 10
+Device : 10M02SCM153I7G
+Timing Models : Final
+Total logic elements : 93 / 2,304 ( 4 % )
+    Total combinational functions : 92 / 2,304 ( 4 % )
+    Dedicated logic registers : 41 / 2,304 ( 2 % )
+Total registers : 41
+Total pins : 36 / 112 ( 32 % )
+Total virtual pins : 0
+Total memory bits : 0 / 110,592 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 32 ( 0 % )
+Total PLLs : 0 / 1 ( 0 % )
+UFM blocks : 0 / 1 ( 0 % )
+ADC blocks : 0

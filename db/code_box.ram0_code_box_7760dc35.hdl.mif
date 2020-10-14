@@ -1,0 +1,20 @@
+-- begin_signature
+-- code_box
+-- end_signature
+WIDTH=9;
+DEPTH=9;
+
+ADDRESS_RADIX=UNS;
+DATA_RADIX=BIN;
+
+CONTENT BEGIN
+	8 :	001000000;
+	7 :	000000111;
+	6 :	001111101;
+	5 :	001101101;
+	4 :	001100110;
+	3 :	001001111;
+	2 :	001011011;
+	1 :	000000110;
+	0 :	000111111;
+END;

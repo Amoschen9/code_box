@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Tue Oct 13 21:54:38 2020
+Quartus Prime Version : 20.1.0 Build 711 06/05/2020 SJ Lite Edition
+Revision Name : code_box
+Top-level Entity Name : code_box
+Family : MAX 10
+Total logic elements : 93
+    Total combinational functions : 91
+    Dedicated logic registers : 41
+Total registers : 41
+Total pins : 36
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
+UFM blocks : 0
+ADC blocks : 0
